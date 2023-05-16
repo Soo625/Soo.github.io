@@ -16,7 +16,7 @@
         <li>词汇</li>
 </ul>
         
-        <h2>网页</h2>
+        <h2>其他</h2>
       <p>Something excited happened.</p>
         
         
