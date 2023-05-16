@@ -6,18 +6,18 @@
     </head>
     <body>
         
-        <h1>欢迎欢迎
-    </h1><P>NI HAO A</P>
+        <h1>蔡徐坤的日记
+    </h1><P>欢迎来到蔡徐坤的日记</P>
 
-        <h3>Contents</h3>
+        <h3>英语</h3>
         <ul>
-            <li>First post!</li>
-        </ul>
+            <li>语音</li>
+        <li>语法</li>
+        <li>词汇</li>
+</ul>
         
-        <h2>First post</h2>
-        <h6>Posted on some date in some year</h6>
-        
-        <p>Something excited happened.</p>
+        <h2>网页</h2>
+      <p>Something excited happened.</p>
         
         
     </body>
